@@ -12,5 +12,6 @@ public class AppConfig {
     public Timer timer() {
         return new Timer();
     }
+
 }
 
